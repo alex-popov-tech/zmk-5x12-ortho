@@ -11,9 +11,8 @@
 #   - board: nice_nano_v2
 #     shield: reviung41
 #
----
 include:
-  - board: nice_nano
+  - board: nrfmicro_13
     shield: boardsource5x12
-  - board: nice_nano_v2
+  - board: nrfmicro_13
     shield: settings_reset
