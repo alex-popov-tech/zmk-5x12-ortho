@@ -236,7 +236,7 @@
 &kp TAB    &kp Q   &kp W     &kp E     &kp R      &kp T      &kp Y          &kp U     &kp I      &kp O         &kp P      &none
 &none      &kp A   &kp S     &kp D     &kp F      &kp G      &kp H          &kp J     &kp K      &kp L         &kp SEMI   &none
 &kp LSHFT  &kp Z   &kp X     &kp C     &kp V      &kp B      &kp N          &kp M     &kp COMMA  &kp UP_ARROW  &kp DOT    &none
-&kp LCTRL  &none   &kp LALT  &kp LCMD  &kp SPACE  &kp SPACE  &kp BACKSPACE  &kp BSPC  &kp LEFT   &kp LEFT      &kp RIGHT  &kp ENTER
+&kp LCTRL  &none   &kp LCMD  &kp LALT  &kp SPACE  &kp SPACE  &kp BACKSPACE  &kp BSPC  &kp LEFT   &kp LEFT      &kp RIGHT  &kp ENTER
             >;
         };
 
